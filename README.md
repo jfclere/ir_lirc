@@ -1,6 +1,6 @@
-GPIO14: photo transistor
+GPIO14: photo transistor (TSSP4038)
 
-GPIO15: diode
+GPIO15: diode (TSAL6100)
 
 Using lirc:
 
